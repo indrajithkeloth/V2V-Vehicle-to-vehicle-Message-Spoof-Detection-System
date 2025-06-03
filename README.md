@@ -15,7 +15,7 @@ Features
 Setup:
 1. Open Command Prompt or Terminal
 2. Clone the repository:-
-   git clone https://github.com/your-username/v2v-spoof-detection.git
+   git clone https://github.com/indrajithkeloth/v2v-spoof-detection.git
 cd v2v-spoof-detection
 3. Install Dependencies:-
    pip install -r requirements.txt
