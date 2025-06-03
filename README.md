@@ -14,12 +14,12 @@ Features
 
 Setup:
 1. Open Command Prompt or Terminal
-2. Clone the repository
+2. Clone the repository:-
    git clone https://github.com/your-username/v2v-spoof-detection.git
 cd v2v-spoof-detection
-3. Install Dependencies
+3. Install Dependencies:-
    pip install -r requirements.txt
-4. Run the Streamlit App
+4. Run the Streamlit App:-
    streamlit run app.py
 
    ![Screenshot 2025-06-03 165747](https://github.com/user-attachments/assets/f4821e92-7080-41de-8765-5d143dcda0b8)
